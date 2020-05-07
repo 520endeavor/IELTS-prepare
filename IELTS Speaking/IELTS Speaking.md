@@ -72,11 +72,19 @@
 
    **End at 19:45 PM in 2020/05/04.**
 
+   **Start at 00:43 AM in 2020/05/08.**
+
 6. Hometown
 
    - Where do you come from?
 
-     > I was born in Hunan Province which is in the south of China. 
+     > I was born in an island city in Hunan Province which is in the south of China. (At the same time, my university is also in my hometown, so I have stayed/live there for almost 24 years,)I had stayed there for almost 18 years until I went to university, So  I can say many things about my hometown because I know it well. I know where you can find tasty food and what kinds of special local products.
+
+   - Is there a big city or a small place?
+
+     > I would say my hometown is a small city because (it has only about 1million people, you know, In China, most cities have more than 5 million people. ) it has a small number of  population, with a slow-paced lifestyle and not prosperous even depressed economic development. I feel comfortable living there, on the one hand, the air is extremely fresh because it is close to mountains. On the other hand, even though there are a range of entertainment facilities, the housing price is still low.
+
+   **End at 01:30 AM in 2020/05/08.**
 
 ### part2
 
