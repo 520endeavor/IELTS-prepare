@@ -82,9 +82,21 @@
 
    - Is there a big city or a small place?
 
-     > I would say my hometown is a small city because (it has only about 1million people, you know, In China, most cities have more than 5 million people. ) it has a small number of  population, with a slow-paced lifestyle and not prosperous even depressed economic development. I feel comfortable living there, on the one hand, the air is extremely fresh because it is close to mountains. On the other hand, even though there are a range of entertainment facilities, the housing price is still low.
+     > I would say my hometown is a small place because (it has only about 1million people, you know, In China, most cities have more than 5 million people. ) it has a small number of  population, with a slow-paced lifestyle and not prosperous even depressed economic development. But I feel comfortable living there, on the one hand, the air is extremely fresh because it is close to mountains. On the other hand, even though there are a range of entertainment facilities, the housing price is still low.
 
    **End at 01:30 AM in 2020/05/08.**
+   
+   **Start at 23:23 PM in 2020/05/08.**（和雪儿吵架耽误一个半小时）
+   
+   - Do you like your hometown?
+   
+     > Well, I don't think people will say no to this question, especially for me.(Well, I absolutely like my hometown), My hometown has a geographic location, splendid scenery, as well as many matched public installations. Besides, the citizens of my hometown are very warm and friendly towards others, so it's really a liveable place, no doubt.
+   
+   - Do you think you will continue living there for a long time?
+   
+     > As for me, may be I will leave there in the future. Because there are less job opportunity in my professional field and if I always stay there  I would lose some chances to see the outside world. You know, I am young and I want to learn and try new things. (But I'll go back often.)
+   
+   **End at 01:23 AM in 2020/05/09.**
 
 ### part2
 
