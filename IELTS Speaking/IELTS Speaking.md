@@ -155,9 +155,25 @@
 
    - What kinds of food do you particularly like?
 
-     > 
+     > As for me, I like to eat many kinds of meat, such as fish, chicken and beef, especially medium well steak. You know, the surface is crisp and internal meat tastes tender and juicy, which makes it a savory treat.
 
-   
+   - Do you like cooking? (Why?/Why not?)
+
+     > Yes, I really like to cook. I regularly cook Chinese food on weekend, from various meats and fishes to sweets and desserts. I was taught some traditional recipes and methods from my father.
+
+   - Who usually does the cooking in your home?
+
+     > In my home, my father normally cook and look for recipe ideas online and in books. Sometimes, my father might go home later from work, I will help him cook a few simple dishes.
+
+   - What kinds of food are most popular in your country?
+
+     > Generally speaking, many kinds of food are popular in China, such as meat, fish, and vegetables ,of which fresh home grown vegetables are the most popular. Not only because it is healthy but also cheap.
+
+   - What do you consider to be a healthy diet?
+
+     > I my experience, although I really like to eat various kinds of meats, I still think a healthy diet should involve proper portion of fruits and vegetables. Because it's rich in vitamins and minerals. Just like a/the old saying goes, an apple  a day keeps a doctor away.
+
+   - Which do you prefer -- to eat one big meal or to eat several small snacks?
 
 
 
