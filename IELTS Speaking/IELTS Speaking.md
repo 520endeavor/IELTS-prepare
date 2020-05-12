@@ -171,11 +171,19 @@
 
    - What do you consider to be a healthy diet?
 
-     > I my experience, although I really like to eat various kinds of meats, I still think a healthy diet should involve proper portion of fruits and vegetables. Because it's rich in vitamins and minerals. Just like a/the old saying goes, an apple  a day keeps a doctor away.
+     > I my experience, although I really like to eat various kinds of meats, I still think a healthy diet should involve proper portion of fruits and vegetables. Because it's rich in vitamins and minerals. Just like a/the old saying goes, an apple a day keeps a doctor away.
 
    - Which do you prefer -- to eat one big meal or to eat several small snacks?
-
-
+   
+   **Vegetables & fruits**
+   
+   - What kinds of fruit do you like?(why)
+   
+     > As for me, I love to eat various fruits, from mangoes and berries to cherries. But I think my favourite one would be cherries because I enjoy the favour and the fact that they are rich in vitamin C and other beneficial nutrients.
+   
+   -  Should we eat vegetables every day?
+   
+     > Yes, for sure. Eating vegetables everyday is necessary simply because you can't find another food group as perfectly matched to our everyday needs as vegetables. You know, there are various proteins, fibre and vitamins that cannot be find in other food like meat.
 
 ### part2
 
