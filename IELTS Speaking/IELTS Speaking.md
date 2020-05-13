@@ -161,6 +161,12 @@
 
      > Yes, I really like to cook. I regularly cook Chinese food on weekend, from various meats and fishes to sweets and desserts. I was taught some traditional recipes and methods from my father.
 
+     > To be honest, cooking is really not my thing mainly because I am not very good at it. I mean, I have no idea about how to make the dish delicious with the right proportion of seasonings. I would either make it too salty or too bland.
+
+   - What do you like to cook?
+
+     > As a person who does not enjoy cooking very much, I like to stew pork ribs. (And I guess the reason is that )May be the reason is that it is tasty and easy to make. I mean, all I need to do is to put the pork ribs and other ingredient like chilis and soy sauce into the boiling water and wait for 30 minutes until it's done.
+
    - Who usually does the cooking in your home?
 
      > In my home, my father normally cook and look for recipe ideas online and in books. Sometimes, my father might go home later from work, I will help him cook a few simple dishes.
@@ -171,21 +177,37 @@
 
    - What do you consider to be a healthy diet?
 
-     > I my experience, although I really like to eat various kinds of meats, I still think a healthy diet should involve proper portion of fruits and vegetables. Because it's rich in vitamins and minerals. Just like a/the old saying goes, an apple a day keeps a doctor away.
+     > I my experience, although I really like to eat various meats, I still think a healthy diet should involve proper portion of fruits and vegetables. Because it's rich in vitamins and minerals. Just like a/the old saying goes, an apple a day keeps a doctor away.
 
    - Which do you prefer -- to eat one big meal or to eat several small snacks?
-   
+
    **Vegetables & fruits**
-   
+
    - What kinds of fruit do you like?(why)
-   
+
      > As for me, I love to eat various fruits, from mangoes and berries to cherries. But I think my favourite one would be cherries because I enjoy the favour and the fact that they are rich in vitamin C and other beneficial nutrients.
-   
+
    -  Should we eat vegetables every day?
-   
+
      > Yes, for sure. Eating vegetables everyday is necessary simply because you can't find another food group as perfectly matched to our everyday needs as vegetables. You know, there are various proteins, fibre and vitamins that cannot be find in other food like meat.
 
+   - What kinds of snack do you like to eat?
+
+     > Generally speaking, I am big fan of all kinds of snacks, from cookies, donut to dried fruits. But I guess I favourite one would be milk chocolate like Snickers and Dove. You know, it's smooth and sweet, which can not only give me energy but also put me in a good mood for a whole day.
+
+   **Housework**
+
+   - What kinds of housework do you dislike to do?
+
+     > To be honest, there are a variety of household chores I can't stand, like, doing laundry, doing dishes, and doing ironing(vacuum). But I think the one I like least would be (cooking) doing grocery shopping. It's quite time-consuming. I mean, it would take me more than 2 hours to and from the mall(to do the grocery shopping, get the ingredients ready and cook them all.)
+
+   - Do you think children should do housework?
+
+     > In my opinion, children are supposed to do housework. I believe it's a good way to cultivate a sense of responsibility. I mean, sharing the household chores for their family can make them feel they're parts of the family, so it's their duty to make it organised and tidy. 
+
 ### part2
+
+
 
 ### part3
 
