@@ -46,7 +46,7 @@
 	
 	- Is math difficult for you to learn?
 	
-	    >No, It's not really hard for me to solve/figure out the difficlut mathematical problems, because I have a solid mathematical foundation and I am sensitive with numbers. You know, every math problem has it's rules, and if we can find out the rules, then we will get the right answer.
+	    >No, It's not really hard for me to solve/figure out the difficult mathematical problems, because I have a solid mathematical foundation and I am sensitive with numbers. You know, every math problem has it's rules, and if we can find out the rules, then we will get the right answer.
 	
 	- Do you like to use a calculator when doing mathematics?
 	
@@ -199,11 +199,33 @@
 
    - What kinds of housework do you dislike to do?
 
-     > To be honest, there are a variety of household chores I can't stand, like, doing laundry, doing dishes, and doing ironing(vacuum). But I think the one I like least would be (cooking) doing grocery shopping. It's quite time-consuming. I mean, it would take me more than 2 hours to and from the mall(to do the grocery shopping, get the ingredients ready and cook them all.)
+     > To be honest, there are a variety of household chores I can't stand, like, doing laundry, doing dishes, and doing ironing(vacuum). But I think the one I like least would be (cooking) doing grocery shopping. It's quite time-consuming. I mean, I need to go to the mall and it would take me more than 2 hours(to do the grocery shopping, get the ingredients ready and cook them all.)
 
    - Do you think children should do housework?
 
      > In my opinion, children are supposed to do housework. I believe it's a good way to cultivate a sense of responsibility. I mean, sharing the household chores for their family can make them feel they're parts of the family, so it's their duty to make it organised and tidy. 
+
+   **6. Transport**
+
+   - Do you like to take public transport?
+
+     > Yes, I think it's really convenient, because there are a variety of transportations, such as flight, railways and bus, which can meet all of my travel demands. For example, I can take flight to any other countries and I can also take a bus to go to school.
+
+     > Yes, it's really a smart way to take public transport because you know, there're many modes of transportation to satisfy our different travel demands.  For example, I can take flights to any other countries in the world and I can also take a bus to go to school. Everytime, when I have the plan to go outside, I can always find the cheapest way from public transportation.
+
+   - What is the most popular means of transport in your hometown/country?
+
+     > I'm pretty sure that the most popular means of  transportation in my hometown would be subway because everyday, whenever you take the subway, you will always feel crowded. After all, the subway is almost never late.
+
+   - Do you prefer public transportation or private transportation?
+
+     > To be honest, I prefer to take public transport, because there're various benefits, on the one hand, it's cheaper to use public transportation to get around than buying my own vehicle. on the other hand, when I take a public transport, I don't have to think too much, only need to pay my fare, get on , and get there. At the same time, Navigation is taken care of, I can read a book, watch film or even take a nap.
+
+   - How often do you take the bus?
+
+     > Actually, it really depends on different occasions. Like for instance, if it is from Monday to Friday, I would like to take the bus everyday to go to school, because the bus is just the perfect vehicle for commuting.
+     >
+     > Whereas in contrast, if it's at weekends, bicycle becomes my option in stead, mainly because cycling is a good way of physical exercise and I have plenty of time for that at weekends.
 
 ### part2
 
